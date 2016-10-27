@@ -14,6 +14,7 @@
 		22A224FD1DC2857500014CAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22A224FB1DC2857500014CAB /* LaunchScreen.storyboard */; };
 		22A225081DC2857600014CAB /* hahahaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A225071DC2857600014CAB /* hahahaTests.swift */; };
 		22A225131DC2857600014CAB /* hahahaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A225121DC2857600014CAB /* hahahaUITests.swift */; };
+		22A225211DC28AC700014CAB /* Second.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22A225201DC28AC700014CAB /* Second.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		22A2250E1DC2857600014CAB /* hahahaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hahahaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22A225121DC2857600014CAB /* hahahaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hahahaUITests.swift; sourceTree = "<group>"; };
 		22A225141DC2857600014CAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22A225201DC28AC700014CAB /* Second.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Second.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				22A224F91DC2857500014CAB /* Assets.xcassets */,
 				22A224FB1DC2857500014CAB /* LaunchScreen.storyboard */,
 				22A224FE1DC2857500014CAB /* Info.plist */,
+				22A225201DC28AC700014CAB /* Second.storyboard */,
 			);
 			path = hahaha;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22A225211DC28AC700014CAB /* Second.storyboard in Resources */,
 				22A224FD1DC2857500014CAB /* LaunchScreen.storyboard in Resources */,
 				22A224FA1DC2857500014CAB /* Assets.xcassets in Resources */,
 				22A224F81DC2857500014CAB /* Main.storyboard in Resources */,
